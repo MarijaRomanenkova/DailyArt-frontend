@@ -5,7 +5,7 @@ This is front-end code made for craft supplies shop operating at www.dailyart.co
 Bootstrap5
 
 ## Set up and Run
-If you own Eqwid shop you can use my design for your shop.
+If you own Eqwid shop you can use this as template for your shop.
 You will need to replace Javascript comennted as <!-- ecwid embeded --> to your categories and products and use my template.
 
 ## Licence
